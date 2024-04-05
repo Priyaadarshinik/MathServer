@@ -135,6 +135,8 @@ urlpatterns = [
 ```
 ## SERVER SIDE PROCESSING:
 
+
+
 ![alt text](abacus/mathapp/areaoutput.png)
 
 ## HOMEPAGE:
