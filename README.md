@@ -74,7 +74,6 @@ math.html
     <center>
     <div class="edge">
         <div class="box">
-           
             <h1>Surface Area of Right Cylinder</h1>
             <h3>PRIYAADARSHINIK (212223240126)</h3>
             <form method="POST">
@@ -134,11 +133,12 @@ urlpatterns = [
     path('',views.surfacearea,name="surfacearea")
 ]
 ```
-
 ## SERVER SIDE PROCESSING:
+
 ![alt text](abacus/mathapp/areaoutput.png)
 
 ## HOMEPAGE:
+
 ![alt text](abacus/mathapp/Areaweb.png)
 
 ## RESULT:
